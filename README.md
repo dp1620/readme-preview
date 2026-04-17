@@ -195,7 +195,6 @@ yarn workspace @voiden/core-extensions build
 cd apps/electron && yarn start
 ```
 
-If you hit Windows build issues, see [Build Errors](docs/troubleshooting/BUILD_ERRORS.md).
 
 ## Project Structure
 
