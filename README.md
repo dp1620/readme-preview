@@ -7,16 +7,35 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/showcase/voiden/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="70">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      height="32"
+    />
   </a>
   <a href="https://x.com/VoidenMD">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" width="40">
+    <img
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="X"
+      height="32"
+    />
   </a>
   <a href="https://discord.com/invite/XSYCf7JF4F">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="75">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+      height="32"
+    />
   </a>
-  <a href="https://docs.voiden.md/docs/getting-started-section/intro" rel="nofollow"><img src="https://camo.githubusercontent.com/ae085ed78e2d78de6bf57bf725d555769e12e21bbfbf5ce461d55a567ccbbdfe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f63732d3065613565392e737667" alt="Documentation" data-canonical-src="https://img.shields.io/badge/Docs-0ea5e9.svg" style="max-width: 100%;" ></a>
+  <a href="https://docs.voiden.md/docs/getting-started-section/intro" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/Docs-0EA5E9?style=for-the-badge"
+      alt="Documentation"
+      height="32"
+    />
+  </a>
 </p>
+
 
 
 
