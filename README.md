@@ -7,32 +7,20 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/showcase/voiden/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      height="32"
-    />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" />
   </a>
   <a href="https://x.com/VoidenMD">
-    <img
-      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
-      height="32"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000" />
+      <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="32" height="32" />
+    </picture>
   </a>
   <a href="https://discord.com/invite/XSYCf7JF4F">
-    <img
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
-      height="32"
-    />
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="32" height="32" />
   </a>
   <a href="https://docs.voiden.md/docs/getting-started-section/intro" rel="nofollow">
-    <img
-      src="https://img.shields.io/badge/Docs-0EA5E9?style=for-the-badge"
-      alt="Documentation"
-      height="32"
-    />
+    <img src="https://cdn.simpleicons.org/readthedocs/0EA5E9" alt="Documentation" width="32" height="32" />
   </a>
 </p>
 
