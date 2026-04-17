@@ -47,9 +47,6 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-Apache%202.0-0EA5E9?style=for-the-badge&logo=apache&logoColor=white" alt="License: Apache 2.0" />
   </a>
-  <a href="SECURITY.md">
-    <img src="https://img.shields.io/badge/Security-Responsible%20Disclosure-10B981?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Security policy" />
-  </a>
   <a href="https://github.com/VoidenHQ/voiden/releases">
     <img src="https://img.shields.io/github/v/release/VoidenHQ/voiden?style=for-the-badge&logo=github&color=111827&label=release" alt="Latest release" />
   </a>
